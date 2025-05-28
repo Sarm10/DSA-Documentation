@@ -7,3 +7,8 @@ This is where i started my portfolio building while taking my Dta Analysis Class
     2. by munching
 - SQL
 - Tableu
+
+
+'''SQL
+SELECT A,B,C
+WHERE A > 25
