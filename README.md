@@ -9,6 +9,7 @@ This is where i started my portfolio building while taking my Dta Analysis Class
 - Tableu
 
 
-'''SQL
+``` SQL
 SELECT A,B,C
 WHERE A > 25
+```
